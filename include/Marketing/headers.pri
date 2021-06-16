@@ -1,0 +1,5 @@
+SYNCQT.HEADER_FILES = ../../include/Marketing/marketing.h
+SYNCQT.HEADER_CLASSES = ../../include/Marketing/Marketing
+SYNCQT.PRIVATE_HEADER_FILES =
+SYNCQT.QPA_HEADER_FILES = 
+SYNCQT.INJECTIONS = 
